@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @harshsaxena21
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning js
-- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me harsh22saxena@gmail.com
 
 <!---
